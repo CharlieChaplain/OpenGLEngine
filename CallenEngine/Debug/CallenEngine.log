@@ -1,0 +1,4 @@
+﻿  main.cpp
+z:\igmprofile\desktop\callenengine\callenengine\engine.h(30): warning C4091: 'static ': ignored on left of 'Engine' when no variable is declared
+  CallenEngine.vcxproj -> Z:\IGMProfile\Desktop\CallenEngine\Debug\CallenEngine.exe
+  CallenEngine.vcxproj -> Z:\IGMProfile\Desktop\CallenEngine\Debug\CallenEngine.pdb (Full PDB)
